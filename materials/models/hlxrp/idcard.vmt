@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/hlxrp/idcard"
+	"$translucent" 1
+}
