@@ -1,5 +1,7 @@
 # HLXRP Base
 
+https://discord.gg/c9tse8PhE3
+
 This addon just adds some roleplay elements or important functions for the addons of the hlxrp project.
 
 The currents features are :
